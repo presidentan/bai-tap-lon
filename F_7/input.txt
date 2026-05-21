@@ -1,0 +1,60 @@
+101
+Nguyen Van An (A)
+15000000
+102
+Tran Thi Binh (B)
+18500000
+103
+Le Quoc Cuong (C)
+12000000
+104
+Pham Minh Hoang (B)
+25000000
+105
+Doan Van Dung (A)
+9500000
+106
+Vu Thi Ha (C)
+16000000
+107
+Hoang Long Nhat (A)
+22000000
+108
+Ngo Kim Khanh (B)
+14000000
+109
+Bui Quang Vinh (C)
+25000000
+110
+Dang Mai Phuong (A)
+11000000
+111
+Phan Van Duc (B)
+17500000
+112
+Trinh Thu Thao (C)
+13500000
+113
+Ly Hoang Nam (A)
+20000000
+114
+Phung Chi Kien (B)
+19000000
+115
+Tang Tuet Nhi (C)
+21000000
+116
+Dinh Tien Dat (A)
+25000000
+117
+Lam Thuy Duong (B)
+15500000
+118
+Ta Ngoc Hai (C)
+12500000
+119
+Nguyen Minh Quan (A)
+18000000
+120
+Cao Bao Ngoc (B)
+23000000
